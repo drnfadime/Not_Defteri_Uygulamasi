@@ -1,0 +1,4 @@
+Bilgisayar Organizasyonu
+Makine Öğrenmesi
+Yapay Zeka
+Diferansiyel Denklemler
